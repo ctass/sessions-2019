@@ -10,6 +10,5 @@
 ## Winter Quarter
 
 1. **Word Embeddings** (1/17/2020) Austin van Loon hosts a colloquium on the usage of word embeddings in social science research. [(video recording)](https://stanford.zoom.us/rec/share/18JVdozd911OQdKQ8EKEeJ8ROoi0T6a823Qe-KVZyh6ZyM3RaMr2UqEQDDcbs9cm)
-2. **Jennifer Pan**
-3. **Topic Modeling**
-4. **Winter Workshop**
+2. **Jennifer Pan** (1/24/2020) Abstract: Protest event analysis is an important method for the study of collective action and social movements and typically draws on traditional media reports as the data source. We introduce collective action from social media (CASM)---a system that uses convolutional neural networks on image data and recurrent neural networks with long short-term memory on text data in a two-stage classifier to identify social media posts about offline collective action. We implement CASM on Chinese social media data and identify more than 100,000 collective action events from 2010 to 2017 (CASM-China). We evaluate the perofrmance of CASM though cross-validation, out-of-sample validation, and comparisons with other protest data sets. We assess the effect of online censorship and find it does not substantially limit our identification of events. Compared to other protest data sets, CASM-China identifies relatively more rural, land-related protests and relatively few collective action events related to ethnic and religious conflict.
+3. **Topic Modeling** (2/7/2020) Sebastian Munoz-Najar Galvez presents a conceptual intrdocution to topic models, including applications in research.
